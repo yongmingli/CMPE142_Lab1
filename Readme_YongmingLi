@@ -16,7 +16,8 @@ IMPORTANT: This shell is coded and tested only in Linux operating system.
 Questions
 1. Provide the name of the github repository (including the owning account, eg “mlarkin2015/142-
 assignment-1”)
-	
+	https://github.com/yongmingli/CMPE142_Lab1
+	Note: It is a private repository. 
 
 2. Provide instructions I need to follow to build your shell.
 	1. Open a Terminal window and direct the path to the file (lym.c) folder
