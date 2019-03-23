@@ -1,0 +1,31 @@
+// CMPE142 Lab1 
+// Yongming Li
+// 010215699
+// March/2019
+
+****** READ ME ******
+
+IMPORTANT: This shell is coded and tested only in Linux operating system. 
+	   If your run this program in other operating system, there is NO garantee you would get the expected results. 
+
+	   Also, it is important that your Linux operating system have "gcc" function and be able to "make". 
+
+	   For more infornation, please use the 'help' command in this program. 
+
+Questions
+1. Provide the name of the github repository (including the owning account, eg “mlarkin2015/142-
+assignment-1”)
+	https://github.com/yongmingli/CMPE142_Lab1
+	Note: It is a private repository. 
+
+2. Provide instructions I need to follow to build your shell.
+	1. Open a Terminal window and direct the path to the file (lym.c) folder
+	   Or open a Terminal window in the file folder
+	2. use command 'gcc -o lym lym.c' to build the file
+	3. use command './lym' to open program
+
+3. What is the name of your shell? (Eg, what do I type to invoke it?)
+	The name of my shell is lym. 
+	Steps to invoke my shell: SEE Question 2. 
+
+4. I did the project by myself.
